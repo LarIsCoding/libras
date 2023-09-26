@@ -1,2 +1,2 @@
 # libras
-App para aprendizagem de libras
+App for training in Brazilian Sign Language (Libras)
